@@ -1,6 +1,10 @@
 ### 👨‍💻 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisDGB&show_icons=true&theme=tokyonight)
+
+### 🔥 Lenguajes Más Usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisDGB&layout=compact&theme=tokyonight)
+
 
 <!--
 **denisDGB/denisDGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
