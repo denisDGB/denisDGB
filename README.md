@@ -4,11 +4,6 @@ Trader Forex • Desarrollador
 
 ---
 
-[![Followers](https://img.shields.io/github/followers/denisDGB?label=Follow&style=flat&logo=github)](https://github.com/denisDGB)
-[![Profile views](https://komarev.com/ghpvc/?username=denisDGB&label=Profile%20views&style=flat)]()
-
----
-
 - X (Twitter): https://x.com/denis_dgb
 - LinkedIn: [@denisgomez17](https://www.linkedin.com/in/denisgomezhn/)
 - Telegram: https://t.me/denisDGB
