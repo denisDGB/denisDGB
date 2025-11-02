@@ -64,11 +64,7 @@ Desarrollador en camino orientado a la simplicidad y funcionalidad.
 </td>
 <td width="50%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=denisDGB&theme=react-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=denisDGB&theme=minimal" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=denisDGB&theme=minimal" />
-</picture>
+![Contribution Graph](https://ghchart.rshah.org/denisDGB)
 
 </td>
 </tr>
