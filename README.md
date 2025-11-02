@@ -62,13 +62,6 @@ Desarrollador en camino orientado a la simplicidad y funcionalidad.
 </picture>
 
 </td>
-<td width="50%" align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/denisDGB)
-
-</td>
-</tr>
-</table>
 
 ---
 
